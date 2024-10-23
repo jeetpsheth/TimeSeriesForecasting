@@ -1,5 +1,3 @@
-# CSE523-Machine-Learning-2022-Mavericks
-
 This Problem is about time series forcasting for store sales. The data comes from an Ecuador company as known as Corporación Favorita and it is a large grocery retailer. Also, the company operates in other countries in South America.
 
 If you wonder the company, you can [click here](https://www.corporacionfavorita.com/en/) to learn something about it.
